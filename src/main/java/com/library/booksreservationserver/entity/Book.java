@@ -1,4 +1,4 @@
-package com.library.booksreservationserver.dao;
+package com.library.booksreservationserver.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
