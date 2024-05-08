@@ -25,7 +25,7 @@ public class Book {
     @Column(name = "category")
     private String category;
 
-    @Column(name = "img_path")
+    @Column(name = "img")
     private String img;
 
 
